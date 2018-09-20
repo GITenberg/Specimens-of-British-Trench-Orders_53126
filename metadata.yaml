@@ -1,0 +1,32 @@
+_repo: Specimens-of-British-Trench-Orders_53126
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Army War College (U.S.)
+    aliases:
+    - Fort Leavenworth (Kan.). Army War College
+    - Carlisle Barracks (Pa.). Army War College
+    - United States. Army War College
+    - Washington (D.C.). Army War College
+    - U.S. War College
+    - US War College
+    gutenberg_agent_id: '47078'
+    url: http://www.gutenberg.org/2009/agents/47078
+description: ''
+gutenberg_issued: '2016-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Military orders'
+- !lcsh 'Great Britain. Army'
+- !lcc 'UG'
+- !lcsh 'World War, 1914-1918'
+- !lcsh 'Intrenchments'
+- GITenberg
+title: Specimens of British Trench Orders
+url: http://www.gutenberg.org/ebooks/53126
